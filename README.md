@@ -1,2 +1,3 @@
 # LibraryManagementSystem
 This is a Java project for Software Development 1, where I created a Console Based Library Management System to handle Library Patron activity.
+In this project, we were instructed to create a console based system in Java to manage individual patrons of a local library without the use of a database. The system allows users to add patrons directly in console, as well as enter patrons in bulk via a formatted text file in the format 'patronID-patronName-patronAddress-patronFineAmount' with each new patron on a separate line. The system also allows users to remove specific patrons via their patronID, and finally the system allows for users to view all current patrons in a formatted list.
